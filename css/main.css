@@ -1,7 +1,38 @@
 .navbarSupportedContent{
     background-color: #212529;
 }
-html {
-  background: url(./images/use.jpg) no-repeat center center fixed;
-  background-size: cover;
+body {
+    background-image: url(../images/hi.jpg);
+    background-size: cover;
+    opacity: 1.0;
+    height:1000px;
+    z-index: -1;
 }
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: transparent !important;
+    opacity: 1 !important;
+    z-index:1;
+}
+.btn_hire{
+    /*opacity: 1 !important;*/
+    background-color: #ff4f48;
+    border-color: #dc3545;
+    color:white;
+
+}
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color:white !important;
+}
+.nav-link:hover{
+    color: #ff2825 !important;
+}
+.btn_hire:hover{
+    background-color: #ff0008;
+    color: white !important;
+}
+/*.nav-item.hire_me{*/
+    /*float: right;*/
+/*}*/
