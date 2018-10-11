@@ -1,0 +1,7 @@
+.navbarSupportedContent{
+    background-color: #212529;
+}
+html {
+  background: url(./images/use.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
