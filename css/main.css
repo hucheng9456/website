@@ -33,6 +33,33 @@ body {
     background-color: #ff0008;
     color: white !important;
 }
+/*.carousel-inner{*/
+    /*height:600px;*/
+    /*width: 800px;*/
+/*}*/
+
+/*.parent{*/
+    /*text-align: center;*/
+/*}*/
+.carousel-caption{
+    margin-top: 50%;
+    color:black;
+}
+img{
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+    border-color: white;
+}
+.carousel-inner{
+    margin-left: 22%;
+    margin-top: 2%;
+    height: 600px;
+    width: 800px;
+}
+.sr-only{
+    color:white;
+}
 /*.nav-item.hire_me{*/
     /*float: right;*/
 /*}*/
