@@ -42,8 +42,10 @@ body {
     /*text-align: center;*/
 /*}*/
 .carousel-caption{
-    margin-top: 50%;
-    color:black;
+    color:white;
+}
+p{
+    margin-bottom: -2%;
 }
 img{
     width: 100%;
