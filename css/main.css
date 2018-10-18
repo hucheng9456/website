@@ -33,14 +33,14 @@ body {
     background-color: #ff0008;
     color: white !important;
 }
-/*.carousel-inner{*/
-    /*height:600px;*/
-    /*width: 800px;*/
-/*}*/
+.carousel-inner{
+    height:600px;
+    width: 800px;
+}
 
-/*.parent{*/
-    /*text-align: center;*/
-/*}*/
+.parent{
+    text-align: center;
+}
 .carousel-caption{
     color:white;
 }
